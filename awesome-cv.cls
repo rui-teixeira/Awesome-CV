@@ -5,7 +5,7 @@
 % https://github.com/posquit0/Awesome-CV
 %
 % Author:
-% Claud D. Park <posquit0.bj@gmail.com>
+% Rui Park <rui.teixeira.eng@gmail.com>
 % http://www.posquit0.com
 %
 % Notes:
